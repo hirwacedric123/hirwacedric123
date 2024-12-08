@@ -60,9 +60,11 @@ Here’s a snapshot of my GitHub profile:
 
 ### 🌱 What I'm Currently Working On
 
-- **Full-stack Web Development**: Enhancing my skills with personal projects like a **travel recommendation website** and **stock management system**.
+- **Stock Management App Backend**: I'm building the backend for a **Stock Management App** using **Django**. The app will allow for efficient stock tracking, order management, and reporting, ensuring seamless interaction with the frontend and providing an intuitive interface for users.
+- **Full-stack Web Development**: Enhancing my skills with personal projects like a **travel recommendation website**.
 - **Advanced Features**: Working on **form validation**, **state management** in React, and **data visualization**.
 - **Django Admin Customization**: Improving my apps with **UI/UX** tweaks and **admin dashboard customizations**.
+
 
 <hr>
 
