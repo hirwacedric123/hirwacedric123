@@ -80,8 +80,8 @@ Here are a few of my projects you can check out:
 
 Feel free to reach out to me!
 
-- **LinkedIn**: [Your LinkedIn URL]  
-- **Twitter**: [Your Twitter Handle]  
+- **LinkedIn**: www.linkedin.com/in/hirwa-cyuzuzo-cedric-a0733a261  
+- **Twitter**: (https://x.com/Quadrant_c)  
 - **Email**: [Your Email Address]  
 - **Portfolio**: [Link to your portfolio or personal website (if any)]
 
