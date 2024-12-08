@@ -37,6 +37,15 @@ I'm a second-year Computer Science student with a deep interest in building mean
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white&labelColor=009639)  
 ![Celery](https://img.shields.io/badge/-Celery-3785A6?style=flat&logo=celery&logoColor=white&labelColor=3785A6)  
 
+### 🏆 GitHub Stats
+
+Here’s a snapshot of my GitHub profile:
+
+<div align="center">
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+</div>
+
 ### 🌱 What I'm Currently Working On
 
 - **Full-stack Web Development**: Enhancing my skills with personal projects like a **travel recommendation website** and **stock management system**.
@@ -50,6 +59,14 @@ Here are a few of my projects you can check out:
 - **[Project 1 Name]**: A brief description of the project.
 - **[Project 2 Name]**: A brief description of the project.
 - **[Project 3 Name]**: A brief description of the project.
+
+### 🏅 Achievements
+
+- 🥇 **Top Performer** in my Computer Science course for the **2023 academic year**.
+- 🎖️ **Hackathon Winner** – **"Tech Innovators" Hackathon**, where I created a **real-time stock tracking web app** using React and Django.
+- 🏅 Contributed to open-source projects on **GitHub**, focusing on backend development, including **bug fixes** and **feature additions**.
+- 🎓 Completed a **certification in Python and Django** from [Platform Name] (e.g., Coursera, Udemy, etc.).
+- 📈 Developed a **personal stock management app** with a Django backend and React frontend, which has received positive feedback from users.
 
 ### 🤝 Let's Connect
 
