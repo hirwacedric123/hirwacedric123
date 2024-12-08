@@ -4,6 +4,8 @@
 
 I am a **full-stack software engineer** specialized in backend development with **Python Django**. I have developed a wide range of projects and am always looking for new opportunities to leverage my skills in Django. I am passionate about building scalable, efficient applications and continuously learning new technologies to enhance my development process.
 
+<hr>
+
 ### 💻 Technologies & Skills
 
 #### **Backend**  
@@ -37,6 +39,8 @@ I am a **full-stack software engineer** specialized in backend development with 
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white&labelColor=009639)  
 ![Celery](https://img.shields.io/badge/-Celery-3785A6?style=flat&logo=celery&logoColor=white&labelColor=3785A6)  
 
+<hr>
+
 ### 🏆 GitHub Stats
 
 Here’s a snapshot of my GitHub profile:
@@ -46,14 +50,17 @@ Here’s a snapshot of my GitHub profile:
   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirwacedric123&layout=compact&theme=radical" />
 </div>
 
+<hr>
+
 ### 🌱 What I'm Currently Working On
 
 - **Full-stack Web Development**: Enhancing my skills with personal projects like a **travel recommendation website** and **stock management system**.
 - **Advanced Features**: Working on **form validation**, **state management** in React, and **data visualization**.
 - **Django Admin Customization**: Improving my apps with **UI/UX** tweaks and **admin dashboard customizations**.
 
-### 🚀 Projects
+<hr>
 
+### 🚀 Projects
 
 Here are a few of my projects you can check out:
 
@@ -61,15 +68,7 @@ Here are a few of my projects you can check out:
 - **Library Management App**: A Django-based application designed to manage library books, users, and borrowing activities. The frontend uses **Bootstrap**, **HTML**, **CSS**, **SCSS**, and **JavaScript** for a smooth user experience.
 - **Attendance Management App**: Built with **Django** on the backend, and **Bootstrap**, **HTML**, **CSS**, **SCSS**, and **JavaScript** on the frontend. It tracks employee or student attendance, generates reports, and provides various data visualizations.
 
-
-
-### 🏅 Achievements
-
-- 🥇 **Top Performer** in my Computer Science course for the **2023 academic year**.
-- 🎖️ **Hackathon Winner** – **"Tech Innovators" Hackathon**, where I created a **real-time stock tracking web app** using React and Django.
-- 🏅 Contributed to open-source projects on **GitHub**, focusing on backend development, including **bug fixes** and **feature additions**.
-- 🎓 Completed a **certification in Python and Django** from [Platform Name] (e.g., Coursera, Udemy, etc.).
-- 📈 Developed a **personal stock management app** with a Django backend and React frontend, which has received positive feedback from users.
+<hr>
 
 ### 🤝 Let's Connect
 
