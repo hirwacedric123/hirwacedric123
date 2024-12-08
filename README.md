@@ -1,4 +1,4 @@
-# 👋 **Hi there! I'm hirwacedric123** 👨‍💻
+# 👋 **Hi there! I'm HIRWA Cyuzuzo Cedric** 👨‍💻
 
 ### A Full-Stack Software Engineer Specializing in Backend with Django 🚀
 
