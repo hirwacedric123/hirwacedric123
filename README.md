@@ -82,7 +82,6 @@ Feel free to reach out to me!
 
 - **LinkedIn**: www.linkedin.com/in/hirwa-cyuzuzo-cedric-a0733a261  
 - **Twitter**: (https://x.com/Quadrant_c)  
-- **Email**: [Your Email Address]  
-- **Portfolio**: [Link to your portfolio or personal website (if any)]
+- **Email**: hirwacedr12@gmail.com  
 
 Let’s build something amazing together! 😎
