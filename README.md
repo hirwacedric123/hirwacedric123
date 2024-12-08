@@ -54,11 +54,14 @@ Here’s a snapshot of my GitHub profile:
 
 ### 🚀 Projects
 
+
 Here are a few of my projects you can check out:
 
-- **[Project 1 Name]**: A brief description of the project.
-- **[Project 2 Name]**: A brief description of the project.
-- **[Project 3 Name]**: A brief description of the project.
+- **Stock Management App**: A web application developed with **Django** for the backend, and **Bootstrap**, **HTML**, **CSS**, **SCSS**, and **JavaScript** for the frontend. It allows for efficient stock tracking, order management, and reporting.
+- **Library Management App**: A Django-based application designed to manage library books, users, and borrowing activities. The frontend uses **Bootstrap**, **HTML**, **CSS**, **SCSS**, and **JavaScript** for a smooth user experience.
+- **Attendance Management App**: Built with **Django** on the backend, and **Bootstrap**, **HTML**, **CSS**, **SCSS**, and **JavaScript** on the frontend. It tracks employee or student attendance, generates reports, and provides various data visualizations.
+
+
 
 ### 🏅 Achievements
 
