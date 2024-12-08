@@ -14,11 +14,7 @@ I am a **full-stack software engineer** specialized in backend development with 
   
 
   
-
- 
- 
- 
-
+<hr>
 #### **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black&labelColor=61DAFB)  
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black&labelColor=61DAFB)  
