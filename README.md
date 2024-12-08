@@ -13,7 +13,7 @@ I am a **full-stack software engineer** specialized in backend development with 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB" width="50" height="50"/>  
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=336791" width="50" height="50"/>  
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=4479A1" width="50" height="50"/>  
-<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white&labelColor=E10098" width="50" height="50"/>  
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white&labelColor=E10098" width="50" height="20"/>  
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&labelColor=007396" width="50" height="50"/>  
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white&labelColor=239120" width="50" height="50"/>  
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white&labelColor=00599C" width="50" height="50"/>  
