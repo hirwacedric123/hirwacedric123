@@ -1,8 +1,8 @@
-# 👋 Hi there! I'm HIRWA CYUZUZO Cedric 👨‍💻
+# 👋 Hi there! I'm hirwacedric123 👨‍💻
 
-### A passionate Software Developer & Computer Science Student 🚀
+### A Full-Stack Software Engineer Specializing in Backend with Django 🚀
 
-I'm a second-year Computer Science student with a deep interest in building meaningful software and learning new technologies. I specialize in backend development with **Django**, and I love creating interactive user experiences with **React** for the frontend.
+I am a **full-stack software engineer** specialized in backend development with **Python Django**. I have developed a wide range of projects and am always looking for new opportunities to leverage my skills in Django. I am passionate about building scalable, efficient applications and continuously learning new technologies to enhance my development process.
 
 ### 💻 Technologies & Skills
 
