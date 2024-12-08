@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name] 👨‍💻
+# 👋 Hi there! I'm HIRWA C. Cedric 👨‍💻
 
 ### A passionate Software Developer & Computer Science Student 🚀
 
@@ -7,8 +7,8 @@ I'm a second-year Computer Science student with a deep interest in building mean
 ### 💻 Technologies & Skills
 
 #### **Backend**  
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+ 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)  
