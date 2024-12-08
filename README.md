@@ -1,13 +1,12 @@
-# 👋 Hi there! I'm hirwacedric123 👨‍💻
+# 👋 **Hi there! I'm hirwacedric123** 👨‍💻
 
 ### A Full-Stack Software Engineer Specializing in Backend with Django 🚀
 
-I am a **full-stack software engineer** specialized in backend development with **Python Django**. I have developed a wide range of projects and am always looking for new opportunities to leverage my skills in Django. I am passionate about building scalable, efficient applications and continuously learning new technologies to enhance my development process.
+Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized in **Python Django** for backend development, with a strong passion for frontend technologies. I enjoy building **scalable applications**, learning new technologies, and creating interactive user experiences. 
 
-<hr>
+---
 
-### 💻 Technologies & Skills
-
+### 💻 **Technologies & Skills**  
 #### **Backend**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=white&labelColor=000000" width="70" height="40"/>
@@ -45,9 +44,18 @@ I am a **full-stack software engineer** specialized in backend development with 
   <img src="https://img.shields.io/badge/-Celery-3785A6?style=flat&logo=celery&logoColor=white&labelColor=3785A6" width="70" height="40"/>
 </div>
 
-<hr>
+---
 
-### 🏆 GitHub Stats
+### 🌱 **What I'm Currently Working On**
+
+- **Stock Management App Backend**: I'm building the backend for a **Stock Management App** using **Django**. The app will allow for efficient stock tracking, order management, and reporting, ensuring seamless interaction with the frontend and providing an intuitive interface for users.
+- **Full-stack Web Development**: Enhancing my skills with personal projects like a **travel recommendation website**.
+- **Advanced Features**: Working on **form validation**, **state management** in React, and **data visualization**.
+- **Django Admin Customization**: Improving my apps with **UI/UX** tweaks and **admin dashboard customizations**.
+
+---
+
+### 🏆 **GitHub Stats**
 
 Here’s a snapshot of my GitHub profile:
 
@@ -56,19 +64,9 @@ Here’s a snapshot of my GitHub profile:
   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirwacedric123&layout=compact&theme=radical" />
 </div>
 
-<hr>
+---
 
-### 🌱 What I'm Currently Working On
-
-- **Stock Management App Backend**: I'm building the backend for a **Stock Management App** using **Django**. The app will allow for efficient stock tracking, order management, and reporting, ensuring seamless interaction with the frontend and providing an intuitive interface for users.
-- **Full-stack Web Development**: Enhancing my skills with personal projects like a **travel recommendation website**.
-- **Advanced Features**: Working on **form validation**, **state management** in React, and **data visualization**.
-- **Django Admin Customization**: Improving my apps with **UI/UX** tweaks and **admin dashboard customizations**.
-
-
-<hr>
-
-### 🚀 Projects
+### 🚀 **Projects**
 
 Here are a few of my projects you can check out:
 
@@ -76,9 +74,9 @@ Here are a few of my projects you can check out:
 - **Library Management App**: A Django-based application designed to manage library books, users, and borrowing activities. The frontend uses **Bootstrap**, **HTML**, **CSS**, **SCSS**, and **JavaScript** for a smooth user experience.
 - **Attendance Management App**: Built with **Django** on the backend, and **Bootstrap**, **HTML**, **CSS**, **SCSS**, and **JavaScript** on the frontend. It tracks employee or student attendance, generates reports, and provides various data visualizations.
 
-<hr>
+---
 
-### 🤝 Let's Connect
+### 🌍 **Let's Connect**
 
 Feel free to reach out to me!
 
@@ -87,6 +85,4 @@ Feel free to reach out to me!
 - **Email**: [Your Email Address]  
 - **Portfolio**: [Link to your portfolio or personal website (if any)]
 
-If you're interested in collaborating on a project or have questions about my work, don't hesitate to get in touch. I'm always up for a chat about software development, coding, and technology!
-
-Let's build something amazing together! 😎
+Let’s build something amazing together! 😎
