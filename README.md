@@ -9,7 +9,7 @@ I am a **full-stack software engineer** specialized in backend development with 
 ### 💻 Technologies & Skills
 
 #### **Backend**  
-![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=white&labelColor=000000)   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=336791) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=4479A1) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white&labelColor=E10098)  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&labelColor=007396) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white&labelColor=239120) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white&labelColor=00599C)  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white&labelColor=512BD4) <hr>
+![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&logoColor=white&labelColor=000000)   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=336791) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=4479A1) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white&labelColor=E10098)  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&labelColor=007396) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white&labelColor=239120) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white&labelColor=512BD4) <hr>
 
   
 
@@ -25,9 +25,11 @@ I am a **full-stack software engineer** specialized in backend development with 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white&labelColor=7952B3)  
 
 #### **Game Development & Other Tools**  
+
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white&labelColor=000000)  
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-945DB7?style=flat&logo=visual-basic&logoColor=white&labelColor=945DB7)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white&labelColor=00599C) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181717)  
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white&labelColor=FCA121)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2496ED)  
