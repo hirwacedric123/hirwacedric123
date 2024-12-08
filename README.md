@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm hirwacedric123 👨‍💻
+# 👋 Hi there! I'm HIRWA CYUZUZO Cedric 👨‍💻
 
 ### A passionate Software Developer & Computer Science Student 🚀
 
