@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized in **Python Django** for backend development, with a strong passion for frontend technologies. I enjoy building **scalable applications**, learning new technologies, and creating interactive user experiences. 
 
-![Coding GIF](https://media.giphy.com/media/xT9IgvMFa6gQxqZivC/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/26FLdmIPotlg8qFMk/giphy.gif)
 
 ---
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
 
 - **Stock Management App Backend**: I'm building the backend for a **Stock Management App** using **Django**. The app will allow for efficient stock tracking, order management, and reporting, ensuring seamless interaction with the frontend and providing an intuitive interface for users.
 
-![Django GIF](https://media.giphy.com/media/xTiIzJS7KnGGWjN8Wk/giphy.gif)
+![Django GIF](https://media.giphy.com/media/3o6Ztq1zD06d9sd8Lq/giphy.gif)
 
 ---
 
@@ -37,7 +37,7 @@ Here’s a snapshot of my GitHub profile:
   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirwacedric123&layout=compact&theme=radical" />
 </div>
 
-![GitHub Stats GIF](https://media.giphy.com/media/3o6Ztq1zD06d9sd8Lq/giphy.gif)
+![GitHub Stats GIF](https://media.giphy.com/media/9V1oBdRKmVYqOQkP9D/giphy.gif)
 
 ---
 
