@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name] 👨‍💻
+# 👋 Hi there! I'm hirwacedric123 👨‍💻
 
 ### A passionate Software Developer & Computer Science Student 🚀
 
@@ -42,8 +42,8 @@ I'm a second-year Computer Science student with a deep interest in building mean
 Here’s a snapshot of my GitHub profile:
 
 <div align="center">
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=hirwacedric123&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirwacedric123&layout=compact&theme=radical" />
 </div>
 
 ### 🌱 What I'm Currently Working On
