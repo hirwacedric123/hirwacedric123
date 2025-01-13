@@ -2,7 +2,7 @@
 
 ### A Full-Stack Software Engineer Specializing in Backend with Django 🚀
 
-Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized in **Python Django** for backend development, with a strong passion for frontend and backend technologies and s. I enjoy building **scalable applications**, learning new technologies, and creating interactive user experiences. 
+Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized in **Python Django** for backend development, with a strong passion for frontend and backend technologies and . I enjoy building **scalable applications**, learning new technologies, and creating interactive user experiences. 
 
 ---
 
