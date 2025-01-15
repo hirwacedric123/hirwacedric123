@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white&labelColor=239120" width="70" height="40"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white&labelColor=00599C" width="70" height="40"/>
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white&labelColor=512BD4" width="70" height="40"/>
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white&labelColor=512BD4" width="70" height="40"/>
 </div>
 
 #### **Frontend**  
