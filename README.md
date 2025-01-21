@@ -19,39 +19,56 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
 
 ---
 
+
 ### 💻 Technologies & Skills
 
-<details>
-<summary>Backend Development 🛠️</summary>
-
+<details open>
+<summary><b>🔹 Backend Development</b></summary>
+<br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1"/>
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=239120"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C"/>
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=512BD4"/>
 </div>
 </details>
 
-<details>
-<summary>Frontend Development 🎨</summary>
-
+<details open>
+<summary><b>🔹 Frontend Development</b></summary>
+<br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3"/>
 </div>
 </details>
 
-<details>
-<summary>Tools & Technologies 🔧</summary>
-
+<details open>
+<summary><b>🔹 Game Development & Other Tools</b></summary>
+<br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED"/>
+  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-Visual%20Basic-945DB7?style=for-the-badge&logo=visual-basic&logoColor=white&labelColor=945DB7"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=FCA121"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37"/>
   <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=009639"/>
+  <img src="https://img.shields.io/badge/-Celery-3785A6?style=for-the-badge&logo=celery&logoColor=white&labelColor=3785A6"/>
 </div>
 </details>
+
+
 
 ---
 
