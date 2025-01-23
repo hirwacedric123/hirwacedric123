@@ -1,22 +1,19 @@
 name: Generate Snake
 on:
   schedule:
-    - cron: "0 */12 * * *"  # runs every 12 hours
-  workflow_dispatch:  # allows manual trigger
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@v3
+        id: snake-svg
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: hirwacedric123
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
