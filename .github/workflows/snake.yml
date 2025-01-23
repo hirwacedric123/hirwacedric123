@@ -17,6 +17,7 @@ jobs:
         with:
           github_user_name: hirwacedric123
           color_snake: '#20B2AA'
+          color_dots: '#20B2AA,#20B2AA,#20B2AA,#20B2AA,#20B2AA'
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
