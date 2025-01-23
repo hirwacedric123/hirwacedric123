@@ -129,9 +129,10 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
 
 ---
 
+
 ### 🎵 Developer Mood
 
-[![Spotify](https://novatorem-spotify-now.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+<iframe src="https://open.spotify.com/embed/playlist/PLAYLIST_ID" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 
