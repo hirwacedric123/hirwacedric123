@@ -18,10 +18,7 @@ jobs:
           github_user_name: hirwacedric123
           color_snake: '#20B2AA'
           color_dots: '#20B2AA,#20B2AA,#20B2AA,#20B2AA,#20B2AA'
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
+          svg_out_path: dist/snake.svg
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
