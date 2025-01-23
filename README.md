@@ -94,7 +94,10 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"
   />
-<img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/snake.svg" alt="Snake animation"/>
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 ---
