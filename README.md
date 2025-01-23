@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
 
 ### 🎯 Quick Facts
 
-- ⚡ Fun fact: Did you hear about the programmer who got stuck in the shower? They followed the instructions: Lather, Rinse, Repeat.
+- ⚡ Fun fact: Did you hear about the programmer who got stuck in the shower? They followed the instructions: Lather, Rinse, Repeat
 - 🔭 Currently working on: **Stock Management System**
 - 🌱 Learning: Advanced Django cashing, sessions management & Django Geographic framework
 - 💬 Ask me about: Django, Python, or anything backend!
