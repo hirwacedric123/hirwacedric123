@@ -132,7 +132,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
 
 ### 🎵 Developer Mood
 
-<iframe src="https://open.spotify.com/embed/playlist/PLAYLIST_ID" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/https://open.spotify.com/playlist/37i9dQZF1DX186v583rmzp?si=fdeef863576e4c99" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 
