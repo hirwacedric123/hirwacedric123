@@ -78,7 +78,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hirwacedric123&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirwacedric123&theme=radical" width="49%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=hirwacedric123&theme=radical" width="49%" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=hirwacedric123&show_icons=true&theme=radical" width="49%" alt="Stats" />
 </div>
 
