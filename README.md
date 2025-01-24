@@ -121,13 +121,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
         <a href="YOUR_REPO_LINK" target="_blank">
           <img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a"/>
         </a>
-        <p><strong>Digital library management with advanced features</strong></p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
+        
 
 
 
