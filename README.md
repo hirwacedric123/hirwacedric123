@@ -131,13 +131,6 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
 
 
 
-
-### 🎵 Developer Mood
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31nwqmc7ipjnwggvv7q2uzsrxo4y&redirect=true)](https://spotify-github-profile.vercel.app/api/view?uid=31nwqmc7ipjnwggvv7q2uzsrxo4y&redirect=true)
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
