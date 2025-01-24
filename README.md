@@ -101,26 +101,6 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
 </picture>
 
 ---
-
-### 🎯 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Stock Management App</h3>
-      <div align="center">
-        <a href="YOUR_REPO_LINK" target="_blank">
-          <img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a"/>
-        </a>
-        <p><strong>A comprehensive stock management solution built with Django</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Library Management System</h3>
-      <div align="center">
-        <a href="YOUR_REPO_LINK" target="_blank">
-          <img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a"/>
-        </a>
         
 
 
