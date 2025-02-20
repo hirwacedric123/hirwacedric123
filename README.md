@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome! I'm HIRWA Cyuzuzo Cedric
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Elite+Software+Architect;Django+Backend+Mastermind;Code+So+Clean+It+Writes+Itself;Building+What+Others+Only+Dream;Setting+Standards%2C+Not+Following+Them)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Elite+Software+Architect;Django+Backend+Mastermind;Code+So+Clean+It+Writes+Itself;Building+What+Others+Only+Dream;Setting+Standards%2C+Not+Following+Them )](https://git.io/typing-svg)
 
 
 ### 👨‍💻  Full-Stack Software Engineer | Django Backend Mastermind 🚀
