@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
 ### 💻 Technologies & Skills
 
 <details open>
-#### 🔹 **Backend Domination**
+<summary><b>🔹 Backend Development</b></summary>
 <br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=white&labelColor=000000"/>
