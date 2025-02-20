@@ -82,7 +82,7 @@ If you're looking for **mediocrity**, you're in the wrong place. I specialize in
 </details>
 
 <details open>
-<summary><b>🔹 Game Development & Other Tools</b></summary>
+<summary><b>🔹 Other Tools I Dominate</b></summary>
 <br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000"/>
