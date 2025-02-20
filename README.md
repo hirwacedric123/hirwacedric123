@@ -101,7 +101,7 @@ If you're looking for **mediocrity**, you're in the wrong place. I specialize in
 
 ---
 
-### 📊 GitHub Stats
+### 📊 🏆 GitHub Dominance
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hirwacedric123&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
