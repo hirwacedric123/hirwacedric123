@@ -4,7 +4,7 @@
 
 ### 👨‍💻  Full-Stack Software Engineer | Django Backend Mastermind 🚀
 
-> "Why do programmers prefer dark mode? Because light attracts bugs! 🐛"
+> "I don’t just write code—I engineer bulletproof systems.! 🐛"
 
 Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized in **Python Django** for backend development, with a strong passion for creating robust and scalable solutions. I enjoy architecting **scalable applications**, exploring new technologies, and crafting delightful user experiences.
 
