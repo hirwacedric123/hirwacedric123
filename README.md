@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
 
 ---
 
-### **🔥 My Code, My Rules**  
+<summary><b>🔹 Backend Development</b></summary> 
 
 - 💡 **I don’t just build apps—I craft seamless digital ecosystems.**  
 - 🚀 **Django-powered backends? Unbreakable.**  
