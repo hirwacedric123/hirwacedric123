@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there! I'm HIRWA Cyuzuzo Cedric
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome! I'm HIRWA Cyuzuzo Cedric
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Software+Engineer;Django+Backend+Specialist;Always+learning+new+things)](https://git.io/typing-svg)
 
