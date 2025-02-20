@@ -28,6 +28,15 @@ Welcome to my GitHub profile! I'm a **Full-Stack Software Engineer** specialized
 
 ---
 
+### **🔥 My Code, My Rules**  
+
+- 💡 **I don’t just build apps—I craft seamless digital ecosystems.**  
+- 🚀 **Django-powered backends? Unbreakable.**  
+- 🎨 **Frontends? Sleek, pixel-perfect, and ridiculously smooth.**  
+- ⚡ **I don’t debug often—because my code doesn’t break.**  
+
+---
+
 ### 🎯 Quick Facts
 
 - ⚡ Fun fact: Did you hear about the programmer who got stuck in the shower? They followed the instructions: Lather, Rinse, Repeat.
