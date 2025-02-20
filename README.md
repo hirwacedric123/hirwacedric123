@@ -116,7 +116,7 @@ If you're looking for **mediocrity**, you're in the wrong place. I specialize in
 
 
 
-### 📫 Connect with Me
+### 📫 Reach Out—If You Can Keep Up
 
 <p align="center">
   <a href="www.linkedin.com/in/hirwa-cyuzuzo-cedric-a0733a261">
