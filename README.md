@@ -68,7 +68,7 @@ If you're looking for **mediocrity**, you're in the wrong place. I specialize in
 </details>
 
 <details open>
-<summary><b>🔹 Frontend Development</b></summary>
+<summary><b>🔹Frontend Precision</b></summary>
 <br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"/>
