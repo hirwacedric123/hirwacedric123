@@ -136,6 +136,12 @@ If you're looking for **mediocrity**, you're in the wrong place. I specialize in
   <img src="https://komarev.com/ghpvc/?username=hirwacedric123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+---
+
+**🚀 "Mediocrity is everywhere. I refuse to be part of it."**  
+
+---
+
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
