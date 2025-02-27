@@ -5,7 +5,7 @@
 
 ### 👨‍💻  Full-Stack Software Engineer | Django Backend Mastermind 🚀
 
-> "I don’t just write code—I engineer bulletproof systems.! 🐛"
+> "I don't just write code—I engineer bulletproof systems.! 🐛"
 
 If you're looking for **mediocrity**, you're in the wrong place. I specialize in **building high-performance, scalable applications** using **Python Django** for backend dominance and **cutting-edge frontend tech** for an elite user experience. While others follow trends, I create the next standard.
 
@@ -32,10 +32,10 @@ If you're looking for **mediocrity**, you're in the wrong place. I specialize in
 
 ### **🔥 My Code, My Rules** 
 
-- 💡 **I don’t just build apps—I craft seamless digital ecosystems.**  
+- 💡 **I don't just build apps—I craft seamless digital ecosystems.**  
 - 🚀 **Django-powered backends? Unbreakable.**  
 - 🎨 **Frontends? Sleek, pixel-perfect, and ridiculously smooth.**  
-- ⚡ **I don’t debug often—because my code doesn’t break.**  
+- ⚡ **I don't debug often—because my code doesn't break.**  
 
 ---
 
@@ -49,6 +49,15 @@ If you're looking for **mediocrity**, you're in the wrong place. I specialize in
 
 ---
 
+### 🔝 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirwacedric123&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</div>
+
+<p align="center"><i>Because when you dominate multiple languages, the stats don't lie.</i></p>
+
+---
 
 ### 💻 Technologies & Skills
 
