@@ -8,7 +8,6 @@
 > "I don't just write code—I engineer bulletproof systems.! 🐛"
 
 If you're looking for **mediocrity**, you're in the wrong place. I specialize in **building high-performance, scalable applications** using **Python Django** for backend dominance and **cutting-edge frontend tech** for an elite user experience. While others follow trends, I create the next standard.
-
 ---
 
 
