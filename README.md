@@ -39,14 +39,7 @@ If you're looking for **mediocrity**, you're in the wrong place. I specialize in
       <td>⚡ Fun fact:</td>
       <td>Did you hear about the programmer who got stuck in the shower? They followed the instructions: Lather, Rinse, Repeat.</td>
     </tr>
-    <tr>
-      <td>🔭 Currently:</td>
-      <td><strong>Advanced Attendance Management System with AI-Powered Analytics</strong></td>
-    </tr>
-    <tr>
-      <td>🌱 Learning:</td>
-      <td>Advanced Django caching, sessions management, Django Geographic framework & Large Language Models</td>
-    </tr>
+
     <tr>
       <td>💬 Ask me about:</td>
       <td>Django, Python, AI/ML, Backend Architecture, or anything tech!</td>
