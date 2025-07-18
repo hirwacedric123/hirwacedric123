@@ -197,27 +197,6 @@ If you're looking for **mediocrity**, you're in the wrong place. I specialize in
 
 ---
 
-## 🚀 **Featured Projects**
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/hirwacedric123/your-ai-project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hirwacedric123&repo=your-ai-project&theme=radical&hide_border=true&border_radius=10" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/hirwacedric123/your-backend-project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hirwacedric123&repo=your-backend-project&theme=radical&hide_border=true&border_radius=10" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 📫 **Connect With Me**
 
 <div align="center">
