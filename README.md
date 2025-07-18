@@ -40,7 +40,7 @@ If you're looking for **mediocrity**, you're in the wrong place. I specialize in
       <td>Did you hear about the programmer who got stuck in the shower? They followed the instructions: Lather, Rinse, Repeat.</td>
     </tr>
 
-    <tr>
+  <tr>
       <td>💬 Ask me about:</td>
       <td>Django, Python, AI/ML, Backend Architecture, or anything tech!</td>
     </tr>
