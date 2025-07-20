@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" alt="Wave"/>
   <img src="https://img.shields.io/badge/Full--Stack%20Engineer-Expert-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20Engineer-Mastermind-blue?style=for-the-badge&logo=robot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Backend%20Engineer-Dominator-orange?style=for-the-badge&logo=server&logoColor=white"/>
