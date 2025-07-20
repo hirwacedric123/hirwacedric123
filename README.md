@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge&logo=check-circle"/>
   <img src="https://img.shields.io/badge/Location-Remote%20%7C%20Worldwide-blue?style=for-the-badge&logo=location"/>
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-orange?style=for-the-badge&logo=clock"/>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=for-the-badge&logo=clock"/>
 </div>
 
 If you're looking for **mediocrity**, you're in the wrong place. I specialize in **building high-performance, scalable applications** with **cutting-edge AI integration**, using **Python Django** for backend dominance and **advanced AI/ML technologies** for intelligent solutions. While others follow trends, I create the next standards in both software engineering and artificial intelligence.
