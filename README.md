@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=for-the-badge&logo=clock"/>
 </div>
 
-If you're looking for **mediocrity**, you're in the wrong place. I specialize in **building high-performance, scalable applications** with **cutting-edge AI integration**, using **Python Djano** for backend dominance and **advanced AI/ML technologies** for intelligent solutions. While others follow trends, I create the next standards in both software engineering and artificial intelligence.
+If you're looking for **mediocrity**, you're in the wrong place. I specialize in **building high-performance, scalable applications** with **cutting-edge AI integration**, using **Python Django** for backend dominance and **advanced AI/ML technologies** for intelligent solutions. While others follow trends, I create the next standards in both software engineering and artificial intelligence.
 
 ---
 
