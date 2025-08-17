@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 **About Me**
+## 🚀 **About M**
 
 > *"I don't just write code—I engineer bulletproof systems and intelligent AI solutions that others only dream of !🐛🤖"*
 
