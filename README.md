@@ -19,7 +19,7 @@
 
 ## 🚀 **About Me**
 
-> *"I don't just write code—I engineer bulletproof systems and intelligent AI solutions that others only dream of !🐛🤖"*
+> *"I don't just write code—I engineer bulletproof systems and intelligent AI solutions that others only dream !🐛🤖"*
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge&logo=check-circle"/>
