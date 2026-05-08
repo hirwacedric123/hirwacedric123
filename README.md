@@ -78,15 +78,66 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 <details>
 <summary><strong>More tools</strong></summary>
 
-**AI / ML:** TensorFlow · PyTorch · scikit-learn · OpenAI · Hugging Face · Pandas · NumPy · Jupyter · Matplotlib  
+<br/>
 
-**Backend:** MySQL · GraphQL · REST · Java · C# · C++ · .NET  
+<p align="center"><strong>AI / ML</strong></p>
 
-**Frontend:** React Native · JavaScript · HTML · CSS · Tailwind · Bootstrap  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="34" height="34" alt="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="34" height="34" alt="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="34" height="34" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="34" height="34" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="34" height="34" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="34" height="34" alt="Jupyter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="34" height="34" alt="Matplotlib"/>
+</p>
 
-**DevOps:** Google Cloud · Nginx · Linux  
+<p align="center"><strong>Backend</strong></p>
 
-**Other:** GitHub · GitLab · Postman · Celery · VS Code · PyCharm · Unity  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34" height="34" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="34" height="34" alt="GraphQL"/>
+<img src="https://img.shields.io/badge/REST-FF6B6B?style=flat-square" alt="REST API"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34" height="34" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="34" height="34" alt="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="34" height="34" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="34" height="34" alt=".NET"/>
+</p>
+
+<p align="center"><strong>Frontend</strong></p>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="34" height="34" alt="React Native"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" height="34" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" height="34" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34" height="34" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="34" height="34" alt="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="34" height="34" alt="Bootstrap"/>
+</p>
+
+<p align="center"><strong>DevOps</strong></p>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="34" height="34" alt="Google Cloud"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="34" height="34" alt="Nginx"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" height="34" alt="Linux"/>
+</p>
+
+<p align="center"><strong>Other</strong></p>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" height="34" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="34" height="34" alt="GitLab"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="34" height="34" alt="Postman"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="34" height="34" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="34" height="34" alt="PyCharm"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="34" height="34" alt="Unity"/>
+</p>
+
+<br/>
 
 </details>
 
