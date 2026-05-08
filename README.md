@@ -182,9 +182,9 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-grid-wave-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-grid-wave-light.svg"/>
-  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-grid-wave-dark.svg" alt="Abstract animated contribution-style wave" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-grid-wave-dark.svg?v=20260208"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-grid-wave-light.svg?v=20260208"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-grid-wave-dark.svg?v=20260208" alt="Abstract animated contribution-style wave" width="100%"/>
 </picture>
 
 </div>
