@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 170" role="img" aria-labelledby="bt">
+  <title id="bt">Git-style branches with animated ink drawing along merges</title>
+  <rect width="840" height="170" fill="#f6f8fa" rx="12" stroke="#d0d7de"/>
+  <text x="420" y="28" text-anchor="middle" fill="#656d76" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" letter-spacing="0.14em">MERGE TRAILS - INK DRAWING LOOP</text>
+  <g fill="#eaeef2" stroke="#0969da" stroke-width="2">
+    <circle cx="110" cy="110" r="10" fill="#ffffff"/>
+    <circle cx="280" cy="110" r="10" fill="#ffffff"/>
+    <circle cx="450" cy="72" r="10" fill="#ffffff"/>
+    <circle cx="620" cy="110" r="10" fill="#ffffff"/>
+    <circle cx="760" cy="110" r="10" fill="#ffffff"/>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" fill="#656d76" text-anchor="middle">
+    <text x="110" y="138">main</text>
+    <text x="280" y="138">feat/api</text>
+    <text x="450" y="54">hotfix</text>
+    <text x="620" y="138">merge</text>
+    <text x="760" y="138">deploy</text>
+  </g>
+  <path fill="none" stroke="#0969da" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="420" stroke-dashoffset="420"
+        d="M 110 110 L 280 110">
+    <animate attributeName="stroke-dashoffset" values="420;0;0;420" keyTimes="0;0.35;0.82;1" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <path fill="none" stroke="#8250df" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="520" stroke-dashoffset="520"
+        d="M 280 110 Q 360 110 400 90 Q 430 72 450 72">
+    <animate attributeName="stroke-dashoffset" values="520;520;0;0;520" keyTimes="0;0.18;0.45;0.78;1" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <path fill="none" stroke="#1a7f37" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="620" stroke-dashoffset="620"
+        d="M 450 72 Q 510 110 620 110 L 760 110">
+    <animate attributeName="stroke-dashoffset" values="620;620;0;0;620" keyTimes="0;0.38;0.62;0.88;1" dur="4s" repeatCount="indefinite"/>
+  </path>
+</svg>
