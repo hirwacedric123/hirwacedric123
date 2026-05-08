@@ -167,11 +167,11 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=hirwacedric123&theme=github_dark&hide_border=true&border_radius=8&mode=daily" width="49%" alt="Contribution streak"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hirwacedric123&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hirwacedric123&show_icons=true&hide_border=true&border_radius=8&include_all_commits=true&rank_icon=github&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%" alt="GitHub stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hirwacedric123&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=8" alt="Top languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hirwacedric123&layout=compact&hide_border=true&border_radius=8&langs_count=8&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Top languages"/>
 
 <br/>
 
