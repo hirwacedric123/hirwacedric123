@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 160" role="img" aria-labelledby="pt">
+  <title id="pt">Animated ship pipeline with a pulse traveling across stages</title>
+  <defs>
+    <linearGradient id="trailL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0969da"/>
+      <stop offset="50%" stop-color="#8250df"/>
+      <stop offset="100%" stop-color="#1a7f37"/>
+    </linearGradient>
+    <filter id="fglowL" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="840" height="160" fill="#f6f8fa" rx="12" stroke="#d0d7de"/>
+  <text x="420" y="26" text-anchor="middle" fill="#656d76" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" letter-spacing="0.14em">PIPELINE PULSE</text>
+  <g font-family="ui-sans-serif,system-ui,sans-serif">
+    <rect x="48" y="44" width="120" height="58" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+    <text x="108" y="74" text-anchor="middle" fill="#1f2328" font-size="13" font-weight="600">Build</text>
+    <text x="108" y="92" text-anchor="middle" fill="#656d76" font-size="11">compile</text>
+
+    <rect x="248" y="44" width="120" height="58" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+    <text x="308" y="74" text-anchor="middle" fill="#1f2328" font-size="13" font-weight="600">Test</text>
+    <text x="308" y="92" text-anchor="middle" fill="#656d76" font-size="11">verify</text>
+
+    <rect x="448" y="44" width="120" height="58" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+    <text x="508" y="74" text-anchor="middle" fill="#1f2328" font-size="13" font-weight="600">Ship</text>
+    <text x="508" y="92" text-anchor="middle" fill="#656d76" font-size="11">release</text>
+
+    <rect x="648" y="44" width="120" height="58" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+    <text x="708" y="74" text-anchor="middle" fill="#1f2328" font-size="13" font-weight="600">Observe</text>
+    <text x="708" y="92" text-anchor="middle" fill="#656d76" font-size="11">metrics</text>
+  </g>
+  <path id="motionPathL" fill="none" stroke="none" d="M 108 122 C 190 108 230 136 308 122 C 396 108 432 136 508 122 C 586 108 632 136 708 122"/>
+  <path fill="none" stroke="url(#trailL)" stroke-width="3.5" stroke-linecap="round" stroke-opacity="0.55" d="M 108 122 C 190 108 230 136 308 122 C 396 108 432 136 508 122 C 586 108 632 136 708 122"/>
+  <circle r="8" fill="#0969da" filter="url(#fglowL)">
+    <animateMotion dur="10s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#motionPathL"/>
+    </animateMotion>
+    <animate attributeName="fill" values="#0969da;#8250df;#1a7f37;#bf3989;#0969da" dur="10s" repeatCount="indefinite"/>
+  </circle>
+</svg>
