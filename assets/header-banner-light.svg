@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
-  <title id="title">Cedric HIRWA Cyuzuzo  profile header</title>
+  <title id="title">Cedric HIRWA Cyuzuzo ù profile header</title>
   <desc id="desc">Light banner with name and focus areas</desc>
   <defs>
     <linearGradient id="skyL" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -17,15 +17,19 @@
       <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#d0d7de" stroke-width="0.6" opacity="0.7"/>
     </pattern>
     <radialGradient id="orbL" cx="88%" cy="12%" r="50%">
-      <stop offset="0%" stop-color="#54aeff" stop-opacity="0.35"/>
+      <stop offset="0%" stop-color="#54aeff" stop-opacity="0.35">
+        <animate attributeName="stop-opacity" values="0.22;0.48;0.28;0.22" dur="7s" repeatCount="indefinite"/>
+      </stop>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect width="1200" height="260" fill="url(#skyL)"/>
   <rect width="1200" height="260" fill="url(#gridL)"/>
   <rect width="1200" height="260" fill="url(#orbL)"/>
-  <rect x="80" y="118" width="1040" height="3" rx="1.5" fill="url(#glowL)" opacity="0.95"/>
+  <rect x="80" y="118" width="1040" height="3" rx="1.5" fill="url(#glowL)" opacity="0.95">
+    <animate attributeName="opacity" values="0.72;1;0.82;0.72" dur="5s" repeatCount="indefinite"/>
+  </rect>
   <text x="600" y="98" text-anchor="middle" fill="#1f2328" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="38" font-weight="700" letter-spacing="-0.02em">Cedric HIRWA Cyuzuzo</text>
-  <text x="600" y="138" text-anchor="middle" fill="#656d76" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" font-weight="500" letter-spacing="0.04em">BACKEND ∑ APIs ∑ AI / ML ∑ RELIABLE SYSTEMS</text>
-  <text x="600" y="192" text-anchor="middle" fill="#8c959f" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13">Python ∑ Django ∑ PostgreSQL ∑ Cloud-ready delivery</text>
+  <text x="600" y="138" text-anchor="middle" fill="#656d76" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" font-weight="500" letter-spacing="0.04em">BACKEND ù APIs ù AI / ML ù RELIABLE SYSTEMS</text>
+  <text x="600" y="192" text-anchor="middle" fill="#8c959f" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13">Python ù Django ù PostgreSQL ù Cloud-ready delivery</text>
 </svg>

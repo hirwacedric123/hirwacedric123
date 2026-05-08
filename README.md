@@ -20,7 +20,11 @@
 
 </div>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
 
 ## About
 
@@ -30,7 +34,11 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 
 **Ask me about:** Django, Postgres, queues, API design, or how I’d roll out an ML feature safely.
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
 
 ## What I work on
 
@@ -39,7 +47,11 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 - Performance when users notice the pain  
 - React / React Native when the project needs a thin frontend  
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
 
 ## Stack
 
@@ -70,7 +82,43 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 
 </details>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
+
+## Live snippets
+
+<sub>Typing SVG, rotating quotes, and README jokes refresh as animated SVGs.</sub>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=650&color=F778BA&center=true&vCenter=true&width=580&height=52&lines=Collaboration+welcome+%F0%9F%A4%9D;Coffee-fueled+debug+sessions;Ship+small%2C+measure%2C+iterate;Docs+and+tests+are+part+of+the+feature" alt="Rotating status lines"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the moment" width="100%"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%2358a6ff&bgColor=%230d1117"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&theme=light&qColor=%230969da"/>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%2358a6ff&bgColor=%230d1117" alt="Developer joke" width="100%"/>
+</picture>
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
 
 ## GitHub stats
 
@@ -97,11 +145,19 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 
 </div>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
 
 ## Connect
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=3FB950&center=true&vCenter=true&width=480&height=45&lines=Let%27s+talk+shipping+%26+architecture;Ping+me%E2%80%94I+reply+fast;Always+happy+to+pair+on+hard+problems" alt="Connect prompt"/>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirwa-cyuzuzo-cedric-a0733a261)
 [![X](https://img.shields.io/badge/@Quadrant__c-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Quadrant_c)
@@ -110,16 +166,32 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 
 </div>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
 
 ## Contributions
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,11,6&height=90&section=footer&animation=twinkling&fontAlign=50&fontSize=0" alt="" width="100%"/>
+
+<br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"/>
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"/>
   </picture>
-</div>
 
-<div align="center"><sub>Good software is mostly empathy—plus a keyboard and a decent test suite.</sub></div>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hirwacedric123&label=Visitors&color=58a6ff&style=flat-square" alt="Profile views"/>
+
+<br/>
+
+<sub>Good software is mostly empathy—plus a keyboard and a decent test suite.</sub>
+
+</div>
