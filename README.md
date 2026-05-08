@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=74&lines=Shipping+backend+systems+that+stay+calm+under+load;Turning+fuzzy+requirements+into+clear+architecture;Always+learning%E2%80%94never+performing+certainty." alt="Animated taglines"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=126&lines=Shipping+backend+systems+that+stay+calm+under+load;Turning+fuzzy+requirements+into+clear+architecture;Always+learning%E2%80%94never+performing+certainty." alt="Animated taglines"/>
 
 <br/>
 
