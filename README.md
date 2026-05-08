@@ -1,256 +1,173 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Hello%2C%20I'm%20Cedric%20HIRWA%20Cyuzuzo;AI%20%26%20Backend%20Engineering%20Mastermind;Building%20The%20Future%20With%20Code;Setting%20Standards%2C%20Not%20Following%20Them" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" alt="Wave"/>
-  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-Expert-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Engineer-Mastermind-blue?style=for-the-badge&logo=robot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend%20Engineer-Dominator-orange?style=for-the-badge&logo=server&logoColor=white"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Hey+%E2%80%94+I%27m+Cedric+HIRWA+Cyuzuzo;Backend+%26+AI-focused+engineer;I+ship+things+that+stay+up+when+it+matters." alt="Introduction" />
 
----
+<br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hirwacedric123&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36" alt="wave"/>
 
----
+**Python · Django · APIs · ML tools · Curious about everything in between**
 
-## 🚀 **About Me**
+[![Open to opportunities](https://img.shields.io/badge/Open%20to-opportunities-238636?style=flat-square)](https://github.com/hirwacedric123)
+[![Remote](https://img.shields.io/badge/Work-Remote%20%7C%20Hybrid-1f6feb?style=flat-square)](mailto:hirwacedr12@gmail.com)
+[![Years building](https://img.shields.io/badge/Experience-3%2B%20years-f85149?style=flat-square)](https://github.com/hirwacedric123)
 
-> *"I don't just write code—I engineer bulletproof systems and intelligent AI solutions that others only dream of!🐛🤖"*
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge&logo=check-circle"/>
-  <img src="https://img.shields.io/badge/Location-Remote%20%7C%20Worldwide-blue?style=for-the-badge&logo=location"/>
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=for-the-badge&logo=clock"/>
-</div>
-
-If you're looking for **mediocrity**, you're in the wrong place. I specialize in **building high-performance, scalable applications** with **cutting-edge AI integration**, using **Python Django** for backend dominance and **advanced AI/ML technologies** for intelligent solutions. While others follow trends, I create the next standards in both software engineering and artificial intelligence.
-
----
-
-## 🎯 **Quick Facts**
-
-<div align="center">
-  <table>
-    <tr>
-      <td>⚡ Fun fact:</td>
-      <td>Did you hear about the programmer who got stuck in the shower? They followed the instructions: Lather, Rinse, Repeat.</td>
-    </tr>
-
-  <tr>
-      <td>💬 Ask me about:</td>
-      <td>Django, Python, AI/ML, Backend Architecture, or anything tech!</td>
-    </tr>
-  </table>
 </div>
 
 ---
 
-## 🔥 **My Code, My Rules**
+### About me
+
+I'm an engineer who enjoys the **uncomfortable middle** of a project: when requirements are fuzzy, the data is messy, and the “right” architecture only appears after a few honest iterations. I spend most of my time on **backend systems** (often **Django**), **solid APIs**, and **AI/ML** pieces that actually make it to production—not just notebooks.
+
+I care about **readable code**, **clear boundaries between services**, and **shipping safely** (tests, observability, and boring reliability over hype). If you’re hiring or collaborating, I’m happiest where people ask good questions and aren’t afraid to redraw a diagram when reality disagrees with it.
+
+<details>
+<summary><strong>Quick facts</strong> <em>(click to expand)</em></summary>
+
+| | |
+|:---|:---|
+| **Ask me about** | Django, Python, API design, Postgres, queue workers, or how I’d structure a new ML feature end-to-end |
+| **Fun fact** | I still laugh at “turn it off and on again”—because sometimes the fix really *is* simpler than the story we tell ourselves |
+
+</details>
+
+---
+
+### What I’m usually building
+
+- **Backend & APIs** — REST and GraphQL services, auth flows, caching, and sane database modeling  
+- **AI / ML in products** — pragmatic integrations (not every problem needs a transformer)  
+- **Performance & hygiene** — profiling when it hurts, migrations that don’t wake people up at 3am  
+- **Frontend when needed** — React / React Native enough to pair well with a backend team  
+
+---
+
+### Tech I reach for
+
+<details>
+<summary><strong>AI / ML</strong></summary>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+
+</details>
+
+<details>
+<summary><strong>Backend & languages</strong></summary>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+<img src="https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square" alt="REST API"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+
+</details>
+
+<details>
+<summary><strong>Frontend</strong></summary>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+
+</details>
+
+<details>
+<summary><strong>DevOps & cloud</strong></summary>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+
+</details>
+
+<details>
+<summary><strong>Tools & misc</strong></summary>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
+
+</details>
+
+---
+
+### GitHub activity
 
 <div align="center">
-  <table>
-    <tr>
-      <td>💡</td>
-      <td><strong>I don't just build apps—I craft seamless digital ecosystems with AI intelligence.</strong></td>
-    </tr>
-    <tr>
-      <td>🚀</td>
-      <td><strong>Django-powered backends? Unbreakable and lightning-fast.</strong></td>
-    </tr>
-    <tr>
-      <td>🤖</td>
-      <td><strong>AI solutions? Intelligent, adaptive, and game-changing.</strong></td>
-    </tr>
-    <tr>
-      <td>🎨</td>
-      <td><strong>Frontends? Sleek, pixel-perfect, and ridiculously smooth.</strong></td>
-    </tr>
-    <tr>
-      <td>⚡</td>
-      <td><strong>I don't debug often—because my code doesn't break.</strong></td>
-    </tr>
-    <tr>
-      <td>🧠</td>
-      <td><strong>Backend engineering? Pure architectural excellence.</strong></td>
-    </tr>
-  </table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=hirwacedric123&theme=discord&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=hirwacedric123&theme=github_dark&hide_border=true&border_radius=8&mode=daily" width="49%" alt="Contribution streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hirwacedric123&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirwacedric123&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=8" alt="Top languages"/>
+
+<sub>Stats are a snapshot of public activity—projects behind NDAs won’t show up here.</sub>
+
 </div>
 
 ---
 
-## 📊 **GitHub Stats**
+### Let’s connect
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hirwacedric123&theme=radical&hide_border=true&border_radius=10" width="49%" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hirwacedric123&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="49%" alt="Stats" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirwacedric123&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Most Used Languages" />
-  <p><i>Because when you dominate multiple languages, the stats don't lie.</i></p>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirwa-cyuzuzo-cedric-a0733a261)
+[![X](https://img.shields.io/badge/@Quadrant__c-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Quadrant_c)
+[![Email](https://img.shields.io/badge/Email-hirwacedr12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirwacedr12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-hirwacedric123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hirwacedric123)
 
----
-
-## 🛠️ **Technologies & Skills**
-
-### 🤖 **AI/ML Engineering Excellence**
-<div align="center">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E"/>
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991"/>
-  <img src="https://img.shields.io/badge/-Hugging%20Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=FF6B6B"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=11557C"/>
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626"/>
-</div>
-
-### 🔧 **Backend Domination**
-<div align="center">
-  <img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=white&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1"/>
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D"/>
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098"/>
-  <img src="https://img.shields.io/badge/-REST%20API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white&labelColor=FF6B6B"/>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=239120"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C"/>
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=512BD4"/>
-</div>
-
-### 🎨 **Frontend Precision**
-<div align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=06B6D4"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3"/>
-</div>
-
-### ☁️ **DevOps & Cloud Mastery**
-<div align="center">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E"/>
-  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326CE5"/>
-  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=009639"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624"/>
-</div>
-
-### 🛠️ **Other Tools I Dominate**
-<div align="center">
-  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/-Visual%20Basic-945DB7?style=for-the-badge&logo=visual-basic&logoColor=white&labelColor=945DB7"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-  <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=FCA121"/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37"/>
-  <img src="https://img.shields.io/badge/-Celery-3785A6?style=for-the-badge&logo=celery&logoColor=white&labelColor=3785A6"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC"/>
-  <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=000000"/>
 </div>
 
 ---
 
-## 🏆 **What I Bring to the Table**
-
-<div align="center">
-  <table>
-    <tr>
-      <td>🤖</td>
-      <td><strong>AI Engineering</strong>: Building intelligent systems, machine learning models, and AI-powered applications</td>
-    </tr>
-    <tr>
-      <td>🔧</td>
-      <td><strong>Backend Engineering</strong>: Architecting robust, scalable server-side solutions with Django and Python</td>
-    </tr>
-    <tr>
-      <td>⚡</td>
-      <td><strong>Performance Optimization</strong>: Making applications lightning-fast and resource-efficient</td>
-    </tr>
-    <tr>
-      <td>🛡️</td>
-      <td><strong>Security-First</strong>: Implementing bulletproof security measures and best practices</td>
-    </tr>
-    <tr>
-      <td>📊</td>
-      <td><strong>Data Engineering</strong>: Handling complex data pipelines and analytics solutions</td>
-    </tr>
-    <tr>
-      <td>🚀</td>
-      <td><strong>Scalability</strong>: Designing systems that grow with your business needs</td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📫 **Connect With Me**
-
-<div align="center">
-  <a href="www.linkedin.com/in/hirwa-cyuzuzo-cedric-a0733a261">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0077B5"/>
-  </a>
-  <a href="https://x.com/Quadrant_c">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2"/>
-  </a>
-  <a href="mailto:hirwacedr12@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=D14836"/>
-  </a>
-  <a href="https://github.com/hirwacedric123">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-  </a>
-</div>
-
----
-
-## 🐍 **My Contribution Graph**
+### Contribution graph
 
 <div align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hirwacedric123&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</div>
 
----
+<sub>“Good software is mostly empathy with a keyboard.” — borrowed from many grizzled engineers before me</sub>
 
-<div align="center">
-  <h3>🚀 "Mediocrity is everywhere. I refuse to be part of it. I build the future with AI and bulletproof backend systems."</h3>
-</div>
-
----
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-  <img src="https://forthebadge.com/images/badges/made-with-python.svg"/>
 </div>
