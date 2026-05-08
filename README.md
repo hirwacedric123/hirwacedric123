@@ -18,6 +18,16 @@
 [![Remote](https://img.shields.io/badge/Work-Remote%20%7C%20Hybrid-1f6feb?style=flat-square)](mailto:hirwacedr12@gmail.com)
 [![Experience](https://img.shields.io/badge/Experience-3%2B%20years-f85149?style=flat-square)](https://github.com/hirwacedric123)
 
+<br/><br/>
+
+<sub><strong>Motion strip</strong> · a glowing bead rides the pipeline—same idea as the snake following a path.</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-pipeline-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-pipeline-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-pipeline-dark.svg" alt="Animated pipeline pulse across stages" width="100%"/>
+</picture>
+
 </div>
 
 <picture>
@@ -82,6 +92,18 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 
 </details>
 
+<div align="center">
+
+<sub><strong>Rhythm field</strong> · diagonal “commit wave” (decorative—your real graph is below).</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-grid-wave-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-grid-wave-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-grid-wave-dark.svg" alt="Abstract animated contribution-style wave" width="100%"/>
+</picture>
+
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
@@ -123,6 +145,18 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 ## GitHub stats
 
 <div align="center">
+
+<sub><strong>Ink trails</strong> · branches draw themselves on a loop—another snake-adjacent vibe.</sub>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-git-branches-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-git-branches-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-git-branches-dark.svg" alt="Animated git merge paths drawing on a loop" width="100%"/>
+</picture>
+
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=hirwacedric123&theme=discord&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies"/>
 
@@ -180,10 +214,26 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 
 <br/>
 
+<sub><strong>Classic calendar snake</strong> · real contribution grid from GitHub Actions (<code>snk</code>).</sub>
+
+<br/><br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"/>
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"/>
+  </picture>
+
+<br/><br/>
+
+<sub><strong>Neon remix</strong> · identical path + grid, synth palette—pairs with the abstract wave above.</sub>
+
+<br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake-neon-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake-neon-light.svg"/>
+    <img alt="Neon contribution snake animation" src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake-neon-dark.svg"/>
   </picture>
 
 <br/>
