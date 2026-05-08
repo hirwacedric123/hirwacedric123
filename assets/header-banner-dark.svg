@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
-  <title id="title">Cedric HIRWA Cyuzuzo ù profile header</title>
+  <title id="title">Cedric HIRWA Cyuzuzo - profile header</title>
   <desc id="desc">Gradient banner with name and focus areas</desc>
   <defs>
     <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -30,6 +30,6 @@
     <animate attributeName="opacity" values="0.65;1;0.75;0.65" dur="5s" repeatCount="indefinite"/>
   </rect>
   <text x="600" y="98" text-anchor="middle" fill="#e6edf3" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="38" font-weight="700" letter-spacing="-0.02em">Cedric HIRWA Cyuzuzo</text>
-  <text x="600" y="138" text-anchor="middle" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" font-weight="500" letter-spacing="0.04em">BACKEND ù APIs ù AI / ML ù RELIABLE SYSTEMS</text>
-  <text x="600" y="192" text-anchor="middle" fill="#6e7681" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13">Python ù Django ù PostgreSQL ù Cloud-ready delivery</text>
+  <text x="600" y="138" text-anchor="middle" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" font-weight="500" letter-spacing="0.04em">BACKEND | APIs | AI / ML | RELIABLE SYSTEMS</text>
+  <text x="600" y="192" text-anchor="middle" fill="#6e7681" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13">Python | Django | PostgreSQL | Cloud-ready delivery</text>
 </svg>
