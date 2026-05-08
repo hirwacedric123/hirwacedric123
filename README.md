@@ -20,8 +20,6 @@
 
 <br/><br/>
 
-<sub><strong>Motion strip</strong> · a glowing bead rides the pipeline—same idea as the snake following a path.</sub>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-pipeline-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-pipeline-light.svg"/>
@@ -94,8 +92,6 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 
 <div align="center">
 
-<sub><strong>Rhythm field</strong> · diagonal “commit wave” (decorative—your real graph is below).</sub>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-grid-wave-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-grid-wave-light.svg"/>
@@ -111,8 +107,6 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 </picture>
 
 ## Live snippets
-
-<sub>Typing SVG, rotating quotes, and README jokes refresh as animated SVGs.</sub>
 
 <div align="center">
 
@@ -145,10 +139,6 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 ## GitHub stats
 
 <div align="center">
-
-<sub><strong>Ink trails</strong> · branches draw themselves on a loop—another snake-adjacent vibe.</sub>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/anim-git-branches-dark.svg"/>
@@ -214,19 +204,11 @@ I like clear requirements, straightforward architecture, and code that’s easy 
 
 <br/>
 
-<sub><strong>Classic calendar snake</strong> · real contribution grid from GitHub Actions (<code>snk</code>).</sub>
-
-<br/><br/>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"/>
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"/>
   </picture>
-
-<br/><br/>
-
-<sub><strong>Neon remix</strong> · identical path + grid, synth palette—pairs with the abstract wave above.</sub>
 
 <br/><br/>
 
