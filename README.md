@@ -1,52 +1,130 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     Profile README · Cedric HIRWA Cyuzuzo · https://github.com/hirwacedric123
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/header-banner-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/header-banner-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/header-banner-dark.svg" alt="Cedric HIRWA Cyuzuzo — Backend, APIs, AI/ML" width="100%"/>
+</picture>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Hey+%E2%80%94+I%27m+Cedric+HIRWA+Cyuzuzo;Backend+%26+AI-focused+engineer;I+ship+things+that+stay+up+when+it+matters." alt="Introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=74&lines=Shipping+backend+systems+that+stay+calm+under+load;Turning+fuzzy+requirements+into+clear+architecture;Always+learning%E2%80%94never+performing+certainty." alt="Animated taglines"/>
 
 <br/>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36" alt="wave"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="wave"/>
 
-**Python · Django · APIs · ML tools · Curious about everything in between**
+<br/>
 
 [![Open to opportunities](https://img.shields.io/badge/Open%20to-opportunities-238636?style=flat-square)](https://github.com/hirwacedric123)
 [![Remote](https://img.shields.io/badge/Work-Remote%20%7C%20Hybrid-1f6feb?style=flat-square)](mailto:hirwacedr12@gmail.com)
-[![Years building](https://img.shields.io/badge/Experience-3%2B%20years-f85149?style=flat-square)](https://github.com/hirwacedric123)
+[![Experience](https://img.shields.io/badge/Experience-3%2B%20years-f85149?style=flat-square)](https://github.com/hirwacedric123)
+
+<br/>
+
+**Navigate:** &nbsp;
+[Overview](#overview) ·
+[Focus](#focus) ·
+[Stack](#stack-and-tooling) ·
+[Metrics](#activity-and-metrics) ·
+[Connect](#connect) ·
+[Graph](#contribution-graph)
 
 </div>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
 
-### About me
+<!-- ─── Overview ───────────────────────────────────────────────────────── -->
 
-I'm an engineer who enjoys the **uncomfortable middle** of a project: when requirements are fuzzy, the data is messy, and the “right” architecture only appears after a few honest iterations. I spend most of my time on **backend systems** (often **Django**), **solid APIs**, and **AI/ML** pieces that actually make it to production—not just notebooks.
+## Overview
 
-I care about **readable code**, **clear boundaries between services**, and **shipping safely** (tests, observability, and boring reliability over hype). If you’re hiring or collaborating, I’m happiest where people ask good questions and aren’t afraid to redraw a diagram when reality disagrees with it.
+<table>
+<tr>
+<td width="52%" valign="top">
 
-<details>
-<summary><strong>Quick facts</strong> <em>(click to expand)</em></summary>
+### Story
+
+I'm an engineer who likes the **messy middle**: fuzzy requirements, imperfect data, and the moment the “right” architecture only appears after honest iteration.
+
+Day to day I lean on **Django** and **Python** for backends, **solid APIs**, and **AI/ML** pieces that ship—not just notebooks.
+
+I optimize for **readable code**, **clean service boundaries**, and **boring reliability** (tests, logs, migrations you can sleep through).
+
+</td>
+<td width="48%" valign="top">
+
+### Snapshot
 
 | | |
 |:---|:---|
-| **Ask me about** | Django, Python, API design, Postgres, queue workers, or how I’d structure a new ML feature end-to-end |
-| **Fun fact** | I still laugh at “turn it off and on again”—because sometimes the fix really *is* simpler than the story we tell ourselves |
+| **Themes** | APIs · data modeling · pragmatic ML · performance when it hurts |
+| **Style** | Collaborative, diagram-friendly, allergic to hype-for-hype’s sake |
+| **Ask me about** | Django, Postgres, queues, auth flows, how I’d stage an ML feature in prod |
+
+<details>
+<summary><strong>Quick facts</strong></summary>
+
+**Fun fact:** I still smile at “have you tried turning it off and on again?”—because sometimes the fix *is* embarrassingly simple.
 
 </details>
 
----
+</td>
+</tr>
+</table>
 
-### What I’m usually building
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
 
-- **Backend & APIs** — REST and GraphQL services, auth flows, caching, and sane database modeling  
-- **AI / ML in products** — pragmatic integrations (not every problem needs a transformer)  
-- **Performance & hygiene** — profiling when it hurts, migrations that don’t wake people up at 3am  
-- **Frontend when needed** — React / React Native enough to pair well with a backend team  
+<!-- ─── Focus ───────────────────────────────────────────────────────────── -->
 
----
+## Focus
 
-### Tech I reach for
+| Area | What that means in practice |
+|:---|:---|
+| **Backend & APIs** | REST / GraphQL, auth, caching, schema evolution, queues |
+| **AI / ML in products** | Integrations that earn their place—not reflex transformers |
+| **Performance & hygiene** | Profile when users feel it; ship migrations safely |
+| **Frontend when needed** | React / React Native to complement backend-heavy teams |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
+
+<!-- ─── Stack ───────────────────────────────────────────────────────────── -->
+
+## Stack and tooling
+
+<div align="center">
+
+<sub><strong>Core icons</strong> · hover repo locally if icons fail to load (CDN)</sub>
+
+<br/><br/>
+
+| Python | Django | FastAPI | PostgreSQL | Redis | Docker |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="44" height="44" alt="Django"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="44" height="44" alt="Redis"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" height="44" alt="Docker"/> |
+
+| React | TypeScript | AWS | Kubernetes | Git | TensorFlow |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="44" height="44" alt="AWS"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="44" height="44" alt="Kubernetes"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" height="44" alt="Git"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="TensorFlow"/> |
+
+</div>
+
+<br/>
 
 <details>
-<summary><strong>AI / ML</strong></summary>
+<summary><strong>Full badge index · AI / ML</strong></summary>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -118,13 +196,27 @@ I care about **readable code**, **clear boundaries between services**, and **shi
 
 </details>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
 
-### GitHub activity
+<!-- ─── Metrics ─────────────────────────────────────────────────────────── -->
+
+## Activity and metrics
 
 <div align="center">
 
+<sub>Trophies · streak · aggregate stats · languages · contribution calendar heatmap</sub>
+
+<br/><br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=hirwacedric123&theme=discord&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hirwacedric123&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity%20(last%20year)" width="100%" alt="Contribution activity graph"/>
 
 <br/><br/>
 
@@ -135,13 +227,21 @@ I care about **readable code**, **clear boundaries between services**, and **shi
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirwacedric123&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=8" alt="Top languages"/>
 
-<sub>Stats are a snapshot of public activity—projects behind NDAs won’t show up here.</sub>
+<br/>
+
+<sub>Public GitHub only—private and NDA work won’t appear here.</sub>
 
 </div>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
 
-### Let’s connect
+<!-- ─── Connect ───────────────────────────────────────────────────────────── -->
+
+## Connect
 
 <div align="center">
 
@@ -152,22 +252,32 @@ I care about **readable code**, **clear boundaries between services**, and **shi
 
 </div>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
 
-### Contribution graph
+<!-- ─── Snake ─────────────────────────────────────────────────────────────── -->
+
+## Contribution graph
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-light.svg"/>
+  <img src="https://raw.githubusercontent.com/hirwacedric123/hirwacedric123/main/assets/wave-divider-dark.svg" alt="" width="100%" height="48"/>
+</picture>
 
 <div align="center">
 
-<sub>“Good software is mostly empathy with a keyboard.” — borrowed from many grizzled engineers before me</sub>
+<sub>Good software is mostly empathy—plus a keyboard and a decent test suite.</sub>
 
 </div>

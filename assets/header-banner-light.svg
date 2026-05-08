@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Cedric HIRWA Cyuzuzo  profile header</title>
+  <desc id="desc">Light banner with name and focus areas</desc>
+  <defs>
+    <linearGradient id="skyL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6f8fa"/>
+      <stop offset="50%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eef2ff"/>
+    </linearGradient>
+    <linearGradient id="glowL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0969da" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#0969da" stop-opacity="0.45"/>
+      <stop offset="60%" stop-color="#8250df" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#bf3989" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="gridL" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#d0d7de" stroke-width="0.6" opacity="0.7"/>
+    </pattern>
+    <radialGradient id="orbL" cx="88%" cy="12%" r="50%">
+      <stop offset="0%" stop-color="#54aeff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#skyL)"/>
+  <rect width="1200" height="260" fill="url(#gridL)"/>
+  <rect width="1200" height="260" fill="url(#orbL)"/>
+  <rect x="80" y="118" width="1040" height="3" rx="1.5" fill="url(#glowL)" opacity="0.95"/>
+  <text x="600" y="98" text-anchor="middle" fill="#1f2328" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="38" font-weight="700" letter-spacing="-0.02em">Cedric HIRWA Cyuzuzo</text>
+  <text x="600" y="138" text-anchor="middle" fill="#656d76" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" font-weight="500" letter-spacing="0.04em">BACKEND · APIs · AI / ML · RELIABLE SYSTEMS</text>
+  <text x="600" y="192" text-anchor="middle" fill="#8c959f" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13">Python · Django · PostgreSQL · Cloud-ready delivery</text>
+</svg>
